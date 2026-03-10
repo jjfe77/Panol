@@ -1,0 +1,13 @@
+C:\Panol\Panol\Panol\x64\Debug\Panol.vcxproj.AssemblyReference.cache
+C:\Panol\Panol\Panol\x64\Debug\Panol.Form1.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.vcxproj.GenerateResource.cache
+C:\Panol\Panol\Panol\x64\Debug\Panol.menuPrincipal.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.prestamos.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.entregaAlumnos.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.consumibles.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.herramientas.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.materialTP.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.presupuestos.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.devoluciones.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.HistorialPrestamos.resources
+C:\Panol\Panol\Panol\x64\Debug\Panol.ClaveDialog.resources

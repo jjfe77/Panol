@@ -1,0 +1,8 @@
+﻿  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  herramientas.cpp
+  menuPrincipal.cpp
+  prestamos.cpp
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Panol.vcxproj -> C:\Panol\Panol\x64\Debug\Panol.exe
